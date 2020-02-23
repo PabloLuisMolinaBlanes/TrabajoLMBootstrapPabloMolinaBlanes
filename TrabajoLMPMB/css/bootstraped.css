@@ -6,6 +6,10 @@ div h1 {
 footer p {
 color:white;
 }
+#wikiimg {
+max-height:32px;
+max-width:32px;
+}
 footer p[class="col-12"] {
 text-align:left;
 }
